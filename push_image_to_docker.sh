@@ -1,1 +1,1 @@
-docker push kishorea15/myapp:latest
+docker push kishorea15/ipfind:latest
